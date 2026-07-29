@@ -1,2 +1,2 @@
-# Git-demo
+# new git
 learning about git and github
